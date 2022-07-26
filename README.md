@@ -13,7 +13,7 @@ Without a proper open PKG tool, the PS4 homebrew scene cannot flourish.
 All code in this repository is licensed under the GNU LGPL version 3, which can be found in LICENSE.txt.
 
 ## Download
-The latest builds are available to download at [AppVeyor](https://ci.appveyor.com/project/maxton/liborbispkg/build/artifacts).
+The latest builds are available to download on the [releases](https://github.com/arkrow/LibOrbisPkg/releases/) page.
 
 ## Usage
 
